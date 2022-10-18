@@ -1,3 +1,8 @@
+/*
+Author: Lalith Kumar aka LexiLominite
+Program: Simple Linked List with create and display functions
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

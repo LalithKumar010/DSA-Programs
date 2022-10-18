@@ -1,4 +1,5 @@
-/*Author: Lalith Kumar aka LexiLominite
+/*
+Author: Lalith Kumar aka LexiLominite
 Program: Linked List with Search and Insert functions
 */
 #include <stdio.h>
